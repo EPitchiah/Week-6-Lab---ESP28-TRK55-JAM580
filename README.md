@@ -15,8 +15,9 @@ print("Your name is " + name + "and you are " + age + " years old.")
 
 To ask for input from the user, the code has to include the word "input" when asking for information from the user while being stored into the variables.
 For example in the name variable, the input keyword allows the user's information to be stored into the variable.
+The variables can be changed to fit programmer's program.
 
-When the code is run, the program shoudl prompt the question and after the user replies, it promps the next question and then prints a statement using the user's responses.
+When the code is run, the program should prompt the question and after the user replies, it promps the next question and then prints a statement using the user's responses.
 
 ## Contribution
 We chose this wording of the license because the agreement leaves some ambiguity and flexibility to apply in various contexts yet still keep a strong enough hold to keep the users in check.
