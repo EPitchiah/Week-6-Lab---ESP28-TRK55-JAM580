@@ -7,7 +7,7 @@ In this python program, the user's name and age was asked and stored in variable
 
 ## Example Code 
 ```python
-age=input("What is your name?")
+name=input("What is your name?")
 age=input("How old are you?")
 print("Your name is " + name + "and you are " + age + " years old.")
 ```
