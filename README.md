@@ -17,10 +17,11 @@ To ask for input from the user, the code has to include the word "input" when as
 For example in the name variable, the input keyword allows the user's information to be stored into the variable.
 The variables can be changed to fit programmer's program.
 
-When the code is run, the program should prompt the question and after the user replies, it promtps the next question and then prints a statement using the user's responses.
+When the code runs, the program should prompt the question and after the user replies, it promtps the next question and then prints a statement using the user's responses.
 
 ## Contribution
 We chose this wording of the license because the agreement leaves some ambiguity and flexibility to apply in various contexts yet still keep a strong enough hold to keep the users in check.
+(add code of conduct explanation -> you should definitely mention your code of conduct in the details of how to contribute to your project)
 
 ## Authors
 
