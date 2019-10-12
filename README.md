@@ -20,8 +20,10 @@ The variables can be changed to fit programmer's program.
 When the code runs, the program should prompt the question and after the user replies, it promtps the next question and then prints a statement using the user's responses.
 
 ## Contribution
+The software of this program is licensed into the public domain. It can be used by the authors and by anyone else as long as the copyright laws are maintained. The code of conduct allowed the authors of the program to work together in a peaceful and respectful atmosphere. 
+
 We chose this wording of the license because the agreement leaves some ambiguity and flexibility to apply in various contexts yet still keep a strong enough hold to keep the users in check.
-(add code of conduct explanation -> you should definitely mention your code of conduct in the details of how to contribute to your project)
+**(add code of conduct explanation of why we use it)**
 
 ## Authors
 
